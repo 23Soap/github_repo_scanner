@@ -34,8 +34,6 @@ This script:
 python scanner.py
 ```
 
-Enter your GitHub username, select a repo, select a branch, and get all raw file URLs
-
 ### Why Python?
 
 This is a simple automation script - perfect use case for Python.
